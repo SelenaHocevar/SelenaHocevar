@@ -3,8 +3,9 @@
 
 <p> Where to find me: </p>
 <a href="https://www.linkedin.com/in/selenahocevar/">
-  <img align="left" alt="Selena's linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img  alt="Selena's linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 
 
 <!--<img width="35%" align="right" alt="Github" src="https://i.pinimg.com/564x/a7/2b/1a/a72b1aa94154e5ce6a1e1efaed96e424.jpg" /> -->
